@@ -1,0 +1,26 @@
+:root {
+	--bg: #1a1c21;
+	--header-bg: #202329;
+	--theme: #0d6e8e;
+	--bg-sub: #303947;
+	--text-sub: #a1a1a1;
+	--text-smphasis: #ffffff;
+	--white: #ffffff;
+}
+
+.section--container {
+	padding: 0 65px;
+	margin-bottom: 50px;
+}
+
+.button--wrapper {
+	width: 100%;
+	text-align: center;
+}
+
+.button--wrapper button {
+	margin: 0 auto;
+	background: transparent;
+	border: 1px solid var(--white);
+	color: var(--white);
+}
